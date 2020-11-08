@@ -1,6 +1,8 @@
-DATA TYPES IN SQL
+# DATA TYPES IN SQL
+
 In SQL we have more than 40 different data types. But these seven are the most
 important ones:
+
 1. Integer. A whole number without a fractional part. E.g. 1, 156, 2012412
 2. Decimal. A number with a fractional part. E.g. 3.14, 3.141592654, 961.1241250
 3. Boolean. A binary value. It can be either TRUE or FALSE.
