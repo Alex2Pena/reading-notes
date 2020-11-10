@@ -1,5 +1,4 @@
 # Code 201 Reading Notes
-*Note taking from 201 class*
 
 
 
