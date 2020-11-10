@@ -7,8 +7,7 @@
 [BigO Notation](./Class01.md)
 
 ### Day 2
-** Summary of content **
-
+[TDD in Python](./class02.md)
 
 
 ### Day 3
