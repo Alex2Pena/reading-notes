@@ -1,7 +1,5 @@
-# Code 401 Reading Notes
-*Note taking from 201 class*
-
-
+# Code 401 Python Reading Notes 
+*November - January 2020*
 
 ### Day 1
 [BigO Notation](./Class01.md)
@@ -11,8 +9,7 @@
 
 
 ### Day 3
-** Summary of content **
-
+[Open, Read, Write Files](./Class03.md)
 
 
 ### Day 4
