@@ -13,22 +13,21 @@
 
 
 ### Day 4
-** Summary of content **
 
 
 
 ### Day 5
-** Summary of content **
+[Linked Lists](./Class05.md)
 
 
 
 ### Day 6
-** Summary of content **
+[Random Module](./Class06.md)
 
 
 
 ### Day 7
-** Summary of content **
+[Understanding Scope](./Class07.md)
 
 
 
@@ -38,12 +37,12 @@
 
 
 ### Day 9
-** Summary of content **
+[Dunder Methods](./Class09.md)
 
 
 
 ### Day 10
-** Summary of content **
+[Stacks and Queues](./Class010.md)
 
 
 
@@ -63,7 +62,7 @@
 
 
 ### Day 14
-** Summary of content **
+[Trees](./Class014.md)
 
 
 
