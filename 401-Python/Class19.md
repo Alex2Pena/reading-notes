@@ -19,8 +19,8 @@ $ | Dollar sign. Matches the end of the string.
 \n | Lowercase n. Matches newline.
 \r | Lowercase r. Matches return.
 \b | Lowercase b. Matches only the beginning or end of the word.
-+ | Checks if the preceding character appears one or more times.
-* | Checks if the preceding character appears zero or more times.
+\+ | Checks if the preceding character appears one or more times.
+\* | Checks if the preceding character appears zero or more times.
 ? |∙ Checks if the preceding character appears exactly zero or one time ∙ Specifies a non-greedy version of +, *
 { } | Checks for an explicit number of times.
 ( ) | Creates a group when performing matches.
